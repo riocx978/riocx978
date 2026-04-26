@@ -2,7 +2,7 @@
 
 **Computational Biologist** specializing in statistical genomics and epigenomics
 
-I build pipelines and statistical models to understand how DNA methylation, genetic variation, and environmental exposures shape disease risk — with a focus on PTSD, epigenetic biomarkers, and cross-ancestry genomics.
+I build pipelines and statistical models to understand how DNA methylation, genetic variation, and environmental exposures shape disease risk with a focus on PTSD, epigenetic biomarkers, oral diseases, and cross-ancestry genomics.
 
 ---
 
