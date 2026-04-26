@@ -43,8 +43,8 @@ Outside of research, I maintain a mini garden that has slowly turned into my own
 | Repo | What it is |
 |------|-----------|
 | [Mendelian-Randomization](https://github.com/riocx978/Mendelian-Randomization) | MR analysis identifying causal SNPs for periodontal disease — code from my published thesis |
-| [MeQTL-Mapping](https://github.com/riocx978/MeQTL-Mapping) | cis-meQTL pipeline linking genetic variants to PTSD-associated methylation sites |
-| [CompBioCodes](https://github.com/riocx978/CompBioCodes) | Collection of R and Python scripts across genomics and epigenomics projects |
+| [MeQTL-Pipeline](https://github.com/riocx978/MeQTL-Pipeline) | cis-meQTL pipeline linking genetic variants to PTSD-associated methylation sites |
+| [computational-biology-portfolio](https://github.com/riocx978/computational-biology-portfolio) | Collection of R and Python scripts across genomics and epigenomics projects |
 
 ---
 
