@@ -2,7 +2,11 @@
 
 **Computational Biologist** specializing in statistical genomics and epigenomics
 
-I build pipelines and statistical models to understand how DNA methylation, genetic variation, and environmental exposures shape disease risk with a focus on PTSD, epigenetic biomarkers, oral diseases, and cross-ancestry genomics.
+I am a curious and driven researcher with a knack for asking questions and pushing until I truly understand the answer. I enjoy working through complex problems and finding solutions that make sense, rather than just accepting surface-level explanations. I don’t give up easily, and I’m always drawn to a good challenge. My core passion lies in understanding human disease from a genetic perspective. I build computational pipelines and statistical models to study how DNA methylation, genetic variation, and environmental exposures shape disease risk, with a focus on PTSD, epigenetic biomarkers, oral diseases, and cross-ancestry genomics.
+
+At the same time, my curiosity extends beyond my primary work. I’ve enjoyed exploring plant genetics on the side and regularly dive into new research to stay up to date with developments in genomics. I’m particularly interested in how AI is changing the way we approach scientific problems. I see it as a powerful collaborator that, when used thoughtfully, can significantly accelerate discovery while still requiring creativity, critical thinking, and strong scientific intuition. I genuinely believe we are closer than ever to understanding health and disease at a deeper level—from stem cells to tissue regeneration—and that this progress is being driven by innovation and collaboration. 
+
+Outside of research, I maintain a mini garden that has slowly turned into my own experimental space for growing fruits and vegetables!
 
 ---
 
