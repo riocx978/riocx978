@@ -50,10 +50,11 @@ Outside of research, I maintain a mini garden that has slowly turned into my own
 
 ## 🎓 Background
 
-M.S. Public Health (Computational Genomics) — University of South Florida  
-B.D.S. — SDM University  
-Research Assistant, USF (Jan 2025 – Jan 2026) · Graduate Teaching Assistant (2023–2024)
-
+M.S. Public Health (Computational Genomics) - University of South Florida  
+B.D.S. - SDM University  
+Senior Research Associate, Johns Hopkins School of Medicine, Department of Neurology (July 2026 - Present)
+Research Assistant, USF (Jan 2025 - Jan 2026)
+Graduate Teaching Assistant (2023-2024)
 ---
 
 📬 [riocx1997@gmail.com](mailto:riocx1997@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rhea-charles/) · Ashburn, VA
